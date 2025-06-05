@@ -1,2 +1,6 @@
+# SAM Model Checkpoint to be downloaded from here: https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth
 sam_vit_h_4b8939.pth
+# This is the Virtual Environment Setup for the solution
 styletransfer311
+# You can install all dependencies with:
+# pip install -r requirements.txt

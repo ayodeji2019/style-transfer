@@ -1,0 +1,10 @@
+flask
+werkzeug
+opencv-python
+torch
+torchvision
+numpy
+matplotlib
+pillow
+tensorflow
+tensorflow-hub
